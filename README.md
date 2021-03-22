@@ -1,4 +1,4 @@
-# DL4CV
+# Deep Learning for Computer Vision with Python
 Bug or Problem Tracker
 
 Welcome the Deep Learning for Computer Vision with Python Bug Tracker.  This tracker is for customers who have purchased [Deep Learning for Computer Vision with Python](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/).  
